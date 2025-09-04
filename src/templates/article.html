@@ -12,7 +12,7 @@
     <p>published on {{ date.date() }}
 
     {% if tags %}
-    &#xB6; tagged with
+    &#xB7; tagged with
       {% for tag in tags|sort(case_sensitive=true) %}
         {%- if not loop.first and not loop.last %}, {% endif -%}
         {%- if loop.last and not loop.first %} and {% endif %}

@@ -1,8 +1,7 @@
 title: About Me
-description: Short description of this page.
+description: Short bio of me.
 
 
 ## About Me
 
-This is a regular page, i.e. not a blog post. Feel free to delete this page,
-populate it with more content or generate more [pages like this](testpage.md).
+Hey, I'm Joe. I'm a game engine programmer from France, and I like to experiment in C++.
